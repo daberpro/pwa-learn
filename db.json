@@ -1,4 +1,5 @@
-[{"id":1,"name":"Panhandle Meadowbeauty","description":"Rhexia salicifolia Kral & Bostick"},
+{
+  "posts": [{"id":1,"name":"Panhandle Meadowbeauty","description":"Rhexia salicifolia Kral & Bostick"},
 {"id":2,"name":"Havard's Evening Primrose","description":"Oenothera havardii S. Watson"},
 {"id":3,"name":"Wyalong Wattle","description":"Acacia cardiophylla A. Cunn. ex Benth."},
 {"id":4,"name":"Round Pepperweed","description":"Lepidium orbiculare H. St. John"},
@@ -98,3 +99,5 @@
 {"id":98,"name":"Narcissus Anemone","description":"Anemone narcissiflora L. var. monantha DC."},
 {"id":99,"name":"Cusick's Clover","description":"Trifolium eriocephalum Nutt. ssp. cusickii (Piper) J.M. Gillett"},
 {"id":100,"name":"Sensitive Jointvetch","description":"Aeschynomene sensitiva Sw."}]
+ 
+}
